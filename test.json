@@ -1,0 +1,12 @@
+{
+  "testField": [
+    {
+      "configId": "fbc52b18-16dc-4cd9-9814-3409fc30a955",
+      "testConcrete": "test1"
+    },
+    {
+      "configId": "4854ea14-52a8-4a16-a837-442c814a1e98",
+      "testConcrete": "test1"
+    }
+  ]
+}
